@@ -440,7 +440,7 @@ implements the MVC pattern, you are free to move on and get some real work done.
 Although, watching a flame war in a comment thread can be a highly amusing
 distraction...
 
-Django follows the MVC pattern closely, however it does implement it's own logic
+Django follows the MVC pattern closely, however it does implement its own logic
 in the implementation. Because the "C" is handled by the framework itself and
 most of the excitement in Django happens in models, templates and views, Django
 is often referred to as an *MTV framework*. 
